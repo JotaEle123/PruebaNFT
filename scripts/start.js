@@ -5,7 +5,7 @@ const IS_REVEALED = true
 const UNREVEALED_METADATA = {
   "name":"Unrevealed Croc",
   "description":"???",
-  "image":"https://api.apinfttest.123tuyoes.com/unrevealed/image.png",
+  "image":"https://apinfttest.123tuyoes.com/api/unrevealed/image.png",
   "attributes":[{"???":"???"}]
 }
 
