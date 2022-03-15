@@ -1,7 +1,7 @@
 var MAX_SUPPLY = null
 const CONTRACT_ADDRESS = "0x215E40F97541c93a549D8c19EAEA6b6e13104989"
 const PORT = 3000
-const IS_REVEALED = true
+const IS_REVEALED = false
 const UNREVEALED_METADATA = {
   "name":"Unrevealed Croc",
   "description":"???",
