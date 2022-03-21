@@ -5,7 +5,7 @@ const IS_REVEALED = true
 const UNREVEALED_METADATA = {
   "name":"Unrevealed Croc",
   "description":"???",
-  "image":"http://134.209.33.178:3000/unrevealed/image.png",
+  "image":"https://APINFTTest.melocompro.online:3000/api/unrevealed/image.png",
   "attributes":[{"???":"???"}]
 }
 
@@ -13,7 +13,7 @@ const fs = require('fs')
 const express = require('express')
 const Web3 = require('web3')
 require('dotenv').config()
-const abi = require('../Contract.json')
+const abi = require('./Contract.json')
 const Contract = require('web3-eth-contract')
 Contract.setProvider(process.env.ROPSTEN_RPC_URL)
 const contract = new Contract(abi, CONTRACT_ADDRESS)
