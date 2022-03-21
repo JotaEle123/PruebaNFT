@@ -1,6 +1,6 @@
-let IMAGES_DIRECTORY = './images/'
 let METADATA_DIRECTORY = './metadata/'
-let IMAGE_BASE_URL = 'https://ipfs.io/'
+let IMAGES_DIRECTORY = './images/'
+let IMAGE_BASE_URL = 'https://ipfs.io'
 
 const fs = require('fs')
 const crypto = require('crypto')

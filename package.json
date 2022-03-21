@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JotaEle123/PruebaNFT.git"
+    "url": "git+https://github.com/FilosofiaCodigo/nft-collection-api.git"
   },
   "keywords": [
     "nft",
@@ -27,10 +27,10 @@
     "json",
     "api"
   ],
-  "author": "Jose Luis Soto",
+  "author": "Filosofía Código",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JotaEle123/PruebaNFT/issues"
+    "url": "https://github.com/FilosofiaCodigo/nft-collection-api/issues"
   },
-  "homepage": "https://github.com/JotaEle123/PruebaNFT.git#readme"
+  "homepage": "https://github.com/FilosofiaCodigo/nft-collection-api#readme"
 }
